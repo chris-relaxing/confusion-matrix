@@ -1,4 +1,4 @@
-# confusion_matrix
+# confusion-matrix
 While working on a Machine Learning project, I wrote this pair of Python 3 functions in Jupyter Notebook to:
 
 1. Manually calculate confusion matrix from test_y and test_predictions
